@@ -1,0 +1,6 @@
+{
+  "name": "RITM Html Editor",
+  "description": "محیط کدنویسی و توسعه پیشرفته وب با پشتیبانی از API هوش مصنوعی‌های DeepSeek, Gemini, GPT, Grok, Claude، پیش‌نمایش در کروم، کانال‌های ارتباطی RITM، هایلایت سریع و خروجی پایدار کدهای بزرگ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
